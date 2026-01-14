@@ -1,0 +1,25 @@
+{
+  "users_welcomed": [
+    595600760,
+    8142093868,
+    8213142311
+  ],
+  "users_sent": [
+    8142093868,
+    8213142311
+  ],
+  "users_final_replied": [
+    8142093868
+  ],
+  "users_join_time": {
+    "8142093868": 1768358078.5656044
+  },
+  "users_registered": [],
+  "video_counter": 4,
+  "last_used_patterns": [
+    "9:3",
+    "9:4_8:0",
+    "9:4_8:4_7:3",
+    "9:0"
+  ]
+}
