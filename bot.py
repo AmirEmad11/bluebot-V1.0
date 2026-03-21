@@ -91,7 +91,7 @@ video_counter = 0
 last_apple_info = None
 
 # روابط الأزرار التفاعلية
-REGISTRATION_LINK = "https://refpa58144.com/L?tag=d_5243769m_4129c_&site=5243769&ad=4129"
+REGISTRATION_LINK = "https://reffpa.com/L?tag=d_5243769m_4129c_&site=5243769&ad=4129"
 CONTACT_USERNAME = "@elharam110"
 TUTORIAL_LINK = "https://t.me/c/3296506024/24600"
 
@@ -110,9 +110,9 @@ FOURTH_MSG = """القواعد سهلة ✅
 
 في الأول لازم تسجّل في 1Xbet بحساب جديد بالبرومو كود او الرمز الترويجي الخاص بينا:   HACK41
 
-رابط التسجيل : 🔥🔥 https://refpa14435.com/L?tag=d_5243769m_1599c_&site=5243769&ad=1599
+رابط التسجيل : 🔥🔥 https://reffpa.com/L?tag=d_5243769m_1599c_&site=5243769&ad=1599
 
-رابط تحميل التطبيق : https://refpa58144.com/L?tag=d_5243769m_4129c_&site=5243769&ad=4129
+رابط تحميل التطبيق : https://reffpa.com/L?tag=d_5243769m_4129c_&site=5243769&ad=4129
 
 بعدها بتحط إيداع 150 جنيه او اكتر، وبعدها بتستعمل إشاراتي الـ VIP عشان تكسب!
 
