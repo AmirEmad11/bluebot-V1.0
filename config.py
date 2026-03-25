@@ -1,9 +1,9 @@
 # ملف الإعدادات - لا تشارك هذا الملف مع أحد!
 # هذه البيانات حساسة جداً
 
-API_ID = 39067761
-API_HASH = "e6b5fae123a1e1d1858d13fc1b8ce684"
-PHONE = "+201153943941"
+API_ID = 34833237
+API_HASH = "7dede664a4c4e6dbbdb65f8b7f494c4e"
+PHONE = "+201114894230"
 PASSWORD = ""  # ضع كلمة المرور هنا إذا كان لديك 2FA
 BOT_TOKEN = "8156871874:AAH0T7tMCOWuyNnNoHCSSHR0H6VLr7I6RpM"
 CHANNEL_IDENTIFIER = "-1003296506024"  # ID القناة المستهدفة
