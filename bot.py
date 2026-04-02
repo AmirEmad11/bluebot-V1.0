@@ -91,7 +91,7 @@ video_counter = 0
 last_apple_info = None
 
 # روابط الأزرار التفاعلية
-REGISTRATION_LINK = "https://reffpa.com/L?tag=d_5243769m_4129c_&site=5243769&ad=4129"
+REGISTRATION_LINK = "https://lb-aff.com/L?tag=d_5431305m_66803c_apk1&site=5431305&ad=66803"
 CONTACT_USERNAME = "@elharam110"
 TUTORIAL_LINK = "https://t.me/c/3296506024/24600"
 
@@ -108,11 +108,11 @@ THIRD_MSG = """بص على نتايج عملائي 👆
 """
 FOURTH_MSG = """القواعد سهلة ✅
 
-في الأول لازم تسجّل في 1Xbet بحساب جديد بالبرومو كود او الرمز الترويجي الخاص بينا:   HACK41
+في الأول لازم تسجّل في 1Xbet بحساب جديد بالبرومو كود او الرمز الترويجي الخاص بينا:   KK100
 
-رابط التسجيل : 🔥🔥 https://reffpa.com/L?tag=d_5243769m_1599c_&site=5243769&ad=1599
+رابط التسجيل : 🔥🔥 https://lb-aff.com/L?tag=d_5431305m_22611c_site&site=5431305&ad=22611&r=registration
 
-رابط تحميل التطبيق : https://reffpa.com/L?tag=d_5243769m_4129c_&site=5243769&ad=4129
+رابط تحميل التطبيق : https://lb-aff.com/L?tag=d_5431305m_66803c_apk1&site=5431305&ad=66803
 
 بعدها بتحط إيداع 150 جنيه او اكتر، وبعدها بتستعمل إشاراتي الـ VIP عشان تكسب!
 
@@ -476,7 +476,7 @@ async def generate_apple_game_with_video_support() -> Tuple[str, Dict]:
     }
     
     grid_text = "\n".join("".join(row) for row in base_grid)
-    game_text = f"✅ اشاره جديده ✅\nالاشاره لمده ٥ دقائق ⏰\n🍏 Apple oF Fortune 🍏\n\n{grid_text}\n\n‼️الاشاره تعمل فقط لمن استعمل الرمز الترويجي HACK41 عن التسجيل بحساب جديد\n‼️اقل ايداع عشان الإشارات تشتغل معاك هو  150 جنيه و في حاله الايداع بمبلغ اقل من 150 هتخسر للاسف\nرابط التسجيل : 🔥🔥 {REGISTRATION_LINK}\n\nلو عندك مشكلة او استفسارات تواصل مع : {CONTACT_USERNAME}"
+    game_text = f"✅ اشاره جديده ✅\nالاشاره لمده ٥ دقائق ⏰\n🍏 Apple oF Fortune 🍏\n\n{grid_text}\n\n‼️الاشاره تعمل فقط لمن استعمل الرمز الترويجي KK100 عن التسجيل بحساب جديد\n‼️اقل ايداع عشان الإشارات تشتغل معاك هو  275 جنيه و في حاله الايداع بمبلغ اقل من 275 هتخسر للاسف\nرابط التسجيل : 🔥🔥 {REGISTRATION_LINK}\n\nلو عندك مشكلة او استفسارات تواصل مع : {CONTACT_USERNAME}"
     
     return game_text, last_apple_info
 
