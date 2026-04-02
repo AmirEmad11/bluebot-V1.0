@@ -1,10 +1,10 @@
 # ملف الإعدادات - لا تشارك هذا الملف مع أحد!
 # هذه البيانات حساسة جداً
 
-API_ID = 34833237
-API_HASH = "7dede664a4c4e6dbbdb65f8b7f494c4e"
-PHONE = "+201114894230"
+API_ID = 37045708
+API_HASH = "bc82bfb66be14f3d859b9d794f7c004a"
+PHONE = "+201125453568"
 PASSWORD = ""  # ضع كلمة المرور هنا إذا كان لديك 2FA
-BOT_TOKEN = "8156871874:AAH0T7tMCOWuyNnNoHCSSHR0H6VLr7I6RpM"
-CHANNEL_IDENTIFIER = "-1003296506024"  # ID القناة المستهدفة
-ADMIN_ID = 8213142311  # ID حساب الأدمن
+BOT_TOKEN = "8632346438:AAEM5QDTsGNANJy5HpLIiQ7lbwFsdXR0PmI"
+CHANNEL_IDENTIFIER = "-1003886228588"  # ID القناة المستهدفة
+ADMIN_ID = 595600760  # ID حساب الأدمن
